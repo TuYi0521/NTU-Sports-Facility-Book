@@ -7,7 +7,7 @@
 * you can choose email you the booking results or not.
 * the button "book" will take the action at the time you input to book the court a week later.
 
-<div align=center> ![avatar](https://github.com/TuYi0521/NTU-Sports-Facility-Book/blob/master/shortcut.png)
+![avatar](https://github.com/TuYi0521/NTU-Sports-Facility-Book/blob/master/shortcut.png)
 
 
 # if any question or any advice, wechat me at TUYI312849231
