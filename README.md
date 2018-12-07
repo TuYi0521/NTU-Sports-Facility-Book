@@ -8,6 +8,6 @@
 * the button "book" will take the action at the time you input to book the court a week later.
 
 ![avatar](https://github.com/TuYi0521/NTU-Sports-Facility-Book/blob/master/shortcut.png)
-
+<img src="https://github.com/TuYi0521/NTU-Sports-Facility-Book/blob/master/shortcut.png" width = "100" height = "100" div align=center />
 
 # if any question or any advice, wechat me at TUYI312849231
