@@ -11,6 +11,6 @@
   <img src="https://github.com/TuYi0521/NTU-Sports-Facility-Book/blob/master/shortcut.png">
 </p>
 
-
+# There are 3 versions: for mac, for win7, and for win10. 
 
 # If any question or any advice, wechat me at TUYI312849231
