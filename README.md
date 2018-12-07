@@ -7,6 +7,10 @@
 * You can set an email address and you will recieve booking result.
 * The button "BOOK" will take the action at the time you input to book the court a week later.
 
-<img src="https://github.com/TuYi0521/NTU-Sports-Facility-Book/blob/master/shortcut.png" width = "460" height = "380" div align=center />
+<p align="center">
+  <img src="https://github.com/TuYi0521/NTU-Sports-Facility-Book/blob/master/shortcut.png">
+</p>
+
+
 
 # If any question or any advice, wechat me at TUYI312849231
