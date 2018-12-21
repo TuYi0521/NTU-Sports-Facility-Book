@@ -1,5 +1,5 @@
 # NTU-Sports-Facility-Book
-# Please do not distribute it. Because it will only make your work of booking harder.
+# If it doesn't work, please download the chromedriver, and put it along with the .exe file.
 * Input your account and password.
 * Choose your identity: student or faculty.
 * Choose the kind of sport you are going to book.
